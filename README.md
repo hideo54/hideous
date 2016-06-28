@@ -1,4 +1,4 @@
-hideous
+hideous-classic
 ===
 
 ##概要
